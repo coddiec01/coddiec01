@@ -31,6 +31,7 @@ __Web Development:__ Building robust web applications using Django, Flask, Sprin
 __Leadership and Coordination:__ Leading teams in diverse roles and environments, ensuring effective project delivery and operational efficiency.
 
 <h2 align="center">Tech Stack</h2>
+
 **_Languages:_** Python, Java, JavaScript, SQL, HTML, CSS
 
 **_Frameworks:_** Django, Flask, React, Spring Boot, Spring, Keras, TensorFlow
