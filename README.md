@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Technical Background
+<h2 align="center">Techincal Background</h2>
+
 __Full-Stack Development:__ Designing, implementing, launching, and scaling systems and user-facing features. Coordinating development teams and managing project requirements from inception to deployment.
 
 __Backend Development:__ Writing scalable code using Python and Java. Developing backend components and integrating user-facing elements with server-side logic.
@@ -29,7 +30,7 @@ __Web Development:__ Building robust web applications using Django, Flask, Sprin
 
 __Leadership and Coordination:__ Leading teams in diverse roles and environments, ensuring effective project delivery and operational efficiency.
 
-### Tech Stack
+<h2 align="center">Tech Stack</h2>
 **_Languages:_** Python, Java, JavaScript, SQL, HTML, CSS
 
 **_Frameworks:_** Django, Flask, React, Spring Boot, Spring, Keras, TensorFlow
@@ -40,5 +41,5 @@ __Leadership and Coordination:__ Leading teams in diverse roles and environments
 
 **_Databases:_** PostgreSQL, MSSQL Server
 
-### Working on
-Building and implementing a full-stack application using the Spring framework and incoporating front-end development elements such as html and css to create an interactive website.
+<h2 align="center">Working On</h2>
+Building and implementing a full-stack application using the Spring framework and incoporating front-end development elements such as html, css, and javascript to create an interactive website.
